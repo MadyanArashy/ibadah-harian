@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+<!-- # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
@@ -47,4 +47,24 @@ To learn more about developing your project with Expo, look at the following res
 Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions. -->
+# Aplikasi Tracker Ibadah Harian
+
+Aplikasi untuk mencatat ibadah harian dengan tipe ibadah dan tanggal. Aplikasi dibangun dengan [Expo](https://expo.dev) menggunakan [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).  
+
+## Mulai Aplikasi
+
+1. Fork atau clone repository ke environment local 
+```bash
+git clone https://github.com/MadyanArashy/ibadah-harian
+```
+2. Install dependencies
+```shell
+npm install
+```
+3. Gunakan Android/iOS Emulator atau Expo Go  
+
+4. Run aplikasi dengan expo
+```shell
+npm start
+```
